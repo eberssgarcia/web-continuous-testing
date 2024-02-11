@@ -1,4 +1,4 @@
-package page;
+package com.bdd.page;
 
 public class TradeMePage extends BasePage {
 

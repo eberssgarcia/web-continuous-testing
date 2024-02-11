@@ -1,6 +1,6 @@
 package com.bdd.steps;
 
-import page.GitPage;
+import com.bdd.page.GitPage;
 import io.cucumber.java.es.Cuando;
 import io.cucumber.java.es.Dado;
 import io.cucumber.java.es.Entonces;

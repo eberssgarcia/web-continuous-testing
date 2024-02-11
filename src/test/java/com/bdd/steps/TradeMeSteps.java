@@ -1,6 +1,6 @@
 package com.bdd.steps;
 
-import page.TradeMePage;
+import com.bdd.page.TradeMePage;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import org.junit.Assert;

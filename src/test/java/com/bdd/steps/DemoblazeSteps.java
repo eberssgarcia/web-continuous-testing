@@ -1,6 +1,6 @@
 package com.bdd.steps;
 
-import page.DemoblazePage;
+import com.bdd.page.DemoblazePage;
 import io.cucumber.java.es.Cuando;
 import io.cucumber.java.es.Dado;
 import io.cucumber.java.es.Entonces;

@@ -2,7 +2,7 @@ package com.bdd.runner;
 
 
 import com.bdd.Util;
-import page.BasePage;
+import com.bdd.page.BasePage;
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
 import org.junit.AfterClass;

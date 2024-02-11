@@ -1,6 +1,6 @@
 package com.bdd.steps;
 
-import page.SanboxPage;
+import com.bdd.page.SanboxPage;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 

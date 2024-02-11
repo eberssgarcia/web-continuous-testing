@@ -1,6 +1,6 @@
 package com.bdd.steps;
 
-import page.AmazonPage;
+import com.bdd.page.AmazonPage;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;

@@ -1,7 +1,7 @@
 package com.bdd.steps;
 
 import com.bdd.Util;
-import page.BlazedemoPage;
+import com.bdd.page.BlazedemoPage;
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.es.Cuando;
 import io.cucumber.java.es.Dado;
